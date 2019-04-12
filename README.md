@@ -7,6 +7,8 @@ Node v8.11.0+
 
 ## Setup
 
+    $ npm install
+
 Copy ./.env.default to ./.env
 
 Update .env with your settings
